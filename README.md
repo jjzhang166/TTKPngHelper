@@ -1,12 +1,12 @@
-# TTKWeather
-去掉Qt加载png图像文件时候的iccp警告 
-libpng warning: iCCP: known incorrect sRGB profile
-libpng warning: iCCP: cHRM chunk does not match sRGB
+# TTKPngHelper
+ * 去掉Qt加载png图像文件时候的iccp警告 
+ * libpng warning: iCCP: known incorrect sRGB profile
+ * libpng warning: iCCP: cHRM chunk does not match sRGB
 
 Copyright
 -------
  * This file is part of the TTK Weather project.
- * Copyright (c) 2015 - 2016 Greedysky Studio.
+ * Copyright (c) 2015 - 2017 Greedysky Studio.
  * All rights reserved!
  * Redistribution and use of the source code or any derivative.
  * works are strictly forbiden.
