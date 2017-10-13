@@ -7,9 +7,6 @@ Copyright
 -------
  * This file is part of the TTK Png Helper project.
  * Copyright (c) 2015 - 2017 Greedysky Studio.
- * All rights reserved!
- * Redistribution and use of the source code or any derivative.
- * works are strictly forbiden.
  * mail: greedysky@163.com.
  
 How To Contribute
